@@ -8,3 +8,75 @@ body {
   background: #ffffff;
   color: #171717;
 }
+
+/* Article body prose styles */
+.article-body p {
+  margin-bottom: 1.25rem;
+}
+
+.article-body h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1E6FCC;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.article-body h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.article-body strong {
+  color: #111827;
+  font-weight: 700;
+}
+
+.article-body hr {
+  border-color: #e5e7eb;
+  margin: 2rem 0;
+}
+
+.article-body ul,
+.article-body ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.article-body ul {
+  list-style-type: disc;
+}
+
+.article-body ol {
+  list-style-type: decimal;
+}
+
+.article-body li {
+  margin-bottom: 0.375rem;
+}
+
+/* Step cards — h3 with id="scratch-test|sanitizer-strike|manager-memo" and the following p */
+.article-body h3#scratch-test,
+.article-body h3#sanitizer-strike,
+.article-body h3#manager-memo {
+  border-left: 4px solid #2E9E6B;
+  background-color: #f0faf5;
+  padding: 0.75rem 1rem;
+  border-radius: 0 0.5rem 0 0;
+  margin-left: -1rem;
+  scroll-margin-top: 5rem;
+}
+
+.article-body h3#scratch-test + p,
+.article-body h3#sanitizer-strike + p,
+.article-body h3#manager-memo + p {
+  background-color: #f0faf5;
+  border-left: 4px solid #2E9E6B;
+  padding: 0.75rem 1rem;
+  border-radius: 0 0 0.5rem 0;
+  margin-left: -1rem;
+  margin-top: -0.75rem;
+}

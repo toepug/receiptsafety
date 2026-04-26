@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import PrintButton from "@/components/PrintButton";
 
 export const metadata: Metadata = {
@@ -31,11 +32,7 @@ export default function ManagerMemoPage() {
         {/* Letterhead */}
         <div className="memo-header flex items-start justify-between mb-6 pb-4 border-b-2 border-[#1E6FCC]">
           <div>
-            <p className="text-2xl font-bold tracking-tight">
-              <span className="text-[#1E6FCC]">Receipt</span>
-              <span className="text-[#2E9E6B]">Safety</span>
-              <span className="text-gray-900">.com</span>
-            </p>
+            <Image src="/images/logo.png" alt="ReceiptSafety.com" width={180} height={46} />
             <p className="text-sm text-gray-500 mt-0.5">Science-backed guidance for retail workers</p>
           </div>
           <div className="text-right">

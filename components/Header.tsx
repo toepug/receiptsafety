@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Header() {
   return (
@@ -6,9 +7,7 @@ export default function Header() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center">
-            <span className="text-xl font-bold text-[#1E6FCC]">Receipt</span>
-            <span className="text-xl font-bold text-[#2E9E6B]">Safety</span>
-            <span className="text-xl font-bold text-gray-800">.com</span>
+            <Image src="/images/logo.png" alt="ReceiptSafety.com" width={200} height={52} priority />
           </Link>
           <nav className="hidden sm:flex items-center gap-8">
             <Link href="/" className="text-sm font-medium text-gray-600 hover:text-[#1E6FCC] transition-colors">Home</Link>

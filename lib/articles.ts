@@ -41,7 +41,18 @@ export async function getArticleBySlug(slug: string): Promise<Article> {
   const { data, content } = matter(source);
 
   const processed = await remark().use(html).process(content);
-  const contentHtml = injectAnchors(processed.toString());
+  let contentHtml = processed.toString();
+
+  // Remove leading <h1> — the page header already renders the title from frontmatter
+  contentHtml = contentHtml.replace(/<h1[^>]*>.*?<\/h1>/is, '');
+
+  // Remove any text before the first <h2> (duplicate intro paragraph from markdown body)
+  const h2Index = contentHtml.search(/<h2/i);
+  if (h2Index > 0) {
+    contentHtml = contentHtml.slice(h2Index);
+  }
+
+  contentHtml = injectAnchors(contentHtml);
 
   return {
     title: data.title as string,

@@ -77,7 +77,7 @@ export default async function ArticlePage({ params }: Props) {
                 Share This Guide
               </button>
               <a
-                href="/resources#manager-memo"
+                href="/manager-memo"
                 className="inline-flex items-center justify-center gap-2 border border-[#2E9E6B] text-[#2E9E6B] font-semibold px-6 py-3 rounded-lg hover:bg-[#2E9E6B]/5 transition-colors"
               >
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -122,7 +122,7 @@ export default async function ArticlePage({ params }: Props) {
               </nav>
             </div>
             <a
-              href="/resources#manager-memo"
+              href="/manager-memo"
               className="flex items-center justify-center gap-2 w-full bg-[#2E9E6B] text-white font-semibold text-sm px-4 py-3 rounded-lg hover:bg-[#268a5c] transition-colors"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">

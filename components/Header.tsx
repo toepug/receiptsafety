@@ -3,10 +3,12 @@ import Image from "next/image";
 
 export default function Header() {
   return (
-    <header className="bg-white border-b border-gray-200 h-16 overflow-hidden sticky top-0 z-50">
+    <header className="bg-white border-b border-gray-200 h-20 overflow-hidden sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-6 h-full flex items-center justify-between">
         <Link href="/" className="flex items-center shrink-0">
-          <Image src="/images/logo.png" alt="ReceiptSafety.com" width={140} height={36} priority />
+          <div className="py-2 px-1">
+            <Image src="/images/logo.png" alt="ReceiptSafety.com" width={150} height={40} priority />
+          </div>
         </Link>
         <nav className="hidden sm:flex items-center gap-8">
           <Link href="/" className="text-sm font-medium text-gray-600 hover:text-[#1E6FCC] transition-colors">Home</Link>

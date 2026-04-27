@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Cashier's Safety Guide: What You Need to Know About Receipt Chemicals"
-date: "2026-04-26"
+date: "2026-04-27"
 description: "If you handle receipts all day, you're exposed to more hormone-disrupting chemicals than almost anyone else. This guide explains the science in plain language — and gives you simple steps to protect yourself today."
 slug: "2026-cashiers-safety-guide"
 featured: true

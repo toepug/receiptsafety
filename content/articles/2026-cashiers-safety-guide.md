@@ -6,12 +6,6 @@ slug: "2026-cashiers-safety-guide"
 featured: true
 ---
 
-# The 2026 Cashier's Safety Guide: Handling Receipt Paper
-
-If you handle receipts all day, you are likely coming into contact with more bisphenols than almost anyone else. This guide explains what those chemicals are, what they do to your body, and how you can protect yourself during your shift.
-
----
-
 ## Part 1: Learning the Terms
 
 Before we look at the risks, let's break down the words scientists use.

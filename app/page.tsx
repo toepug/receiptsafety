@@ -238,7 +238,9 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="text-center sm:text-left">
               <div className="py-1">
-                <Image src="/images/logo.png" alt="ReceiptSafety.com" width={160} height={42} className="brightness-0 invert mx-auto sm:mx-0" />
+                <div className="bg-white rounded-lg p-2 inline-block">
+                  <Image src="/images/logo.png" alt="ReceiptSafety.com" width={150} height={40} />
+                </div>
               </div>
               <p className="text-sm mt-1">Protecting retail workers with science-backed guidance.</p>
             </div>

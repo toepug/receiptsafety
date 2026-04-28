@@ -8,7 +8,7 @@ export default function Home() {
       {/* Hero */}
       <section className="relative overflow-hidden min-h-[580px] flex items-center">
         <Image src="/images/hero-bg.jpg" alt="Cashier handling receipt at register" fill style={{objectFit:'cover'}} priority />
-        <div className="absolute inset-0 bg-blue-900/60" />
+        <div className="absolute inset-0 bg-blue-900/40" />
         <div className="relative z-10 max-w-4xl mx-auto px-6 py-24 text-center text-white">
           <div className="inline-flex items-center gap-2 bg-white/20 text-white text-sm font-medium px-4 py-1.5 rounded-full mb-6">
             <span className="w-2 h-2 bg-[#2E9E6B] rounded-full inline-block"></span>

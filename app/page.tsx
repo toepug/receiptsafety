@@ -6,8 +6,10 @@ export default function Home() {
     <div className="flex flex-col">
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-[#1E6FCC] to-[#1457a3] text-white py-20 px-4">
-        <div className="max-w-4xl mx-auto text-center">
+      <section className="relative overflow-hidden min-h-[580px] flex items-center">
+        <Image src="/images/hero-bg.jpg" alt="Cashier handling receipt at register" fill style={{objectFit:'cover'}} priority />
+        <div className="absolute inset-0 bg-blue-900/60" />
+        <div className="relative z-10 max-w-4xl mx-auto px-6 py-24 text-center text-white">
           <div className="inline-flex items-center gap-2 bg-white/20 text-white text-sm font-medium px-4 py-1.5 rounded-full mb-6">
             <span className="w-2 h-2 bg-[#2E9E6B] rounded-full inline-block"></span>
             2026 Washington State Bisphenol Ban Now in Effect

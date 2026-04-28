@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "About — ReceiptSafety.com",
@@ -12,8 +13,10 @@ export default function AboutPage() {
     <div className="flex flex-col">
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-[#1E6FCC] to-[#1457a3] text-white py-16 px-4">
-        <div className="max-w-4xl mx-auto text-center">
+      <section className="relative overflow-hidden min-h-[300px] flex items-center">
+        <Image src="/images/about-bg.jpg" alt="Retail worker at register" fill style={{objectFit:'cover'}} priority />
+        <div className="absolute inset-0 bg-blue-900/40" />
+        <div className="relative z-10 max-w-4xl mx-auto px-6 py-20 text-center text-white">
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-4">
             Why ReceiptSafety.com Exists
           </h1>

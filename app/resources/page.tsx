@@ -75,12 +75,15 @@ export default function ResourcesPage() {
                 Non-Toxic Skin Barrier Cream
               </h3>
               <p className="text-gray-600 text-sm mb-4 leading-relaxed">
-                A thin layer of barrier cream on hands before your shift reduces dermal absorption
-                even without gloves.
+                Unlike hand sanitizer — which contains penetration enhancers that increase chemical
+                absorption — a true skin barrier cream works in the opposite way. It creates a
+                physical film on the skin surface that blocks chemicals from passing through. Think
+                of it as an invisible glove. The key is choosing a formula with no penetration
+                enhancers.
               </p>
               <div className="bg-gray-50 rounded-lg p-3 mb-5 text-sm">
                 <p className="font-semibold text-gray-700 mb-1">What to look for:</p>
-                <p className="text-gray-500">Fragrance-free. No alcohol. No glycerin.</p>
+                <p className="text-gray-500">Fragrance-free. No alcohol, no glycerin, no propylene glycol. Look for products marketed as &lsquo;work barrier cream&rsquo; or &lsquo;skin protectant&rsquo; — not moisturizers.</p>
               </div>
               <div className="mt-auto flex flex-col gap-2">
                 <a

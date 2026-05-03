@@ -182,6 +182,11 @@ export default function Home() {
               </Link>
             </div>
           </div>
+          <div className="text-center mt-8">
+            <Link href="/articles" className="text-sm font-semibold text-[#1E6FCC] hover:underline">
+              View All Articles →
+            </Link>
+          </div>
         </div>
       </section>
 
@@ -249,6 +254,7 @@ export default function Home() {
             <nav className="flex flex-wrap justify-center gap-6 text-sm">
               <Link href="/" className="hover:text-white transition-colors">Home</Link>
               <Link href="/articles/2026-cashiers-safety-guide" className="hover:text-white transition-colors">The Guide</Link>
+              <Link href="/articles" className="hover:text-white transition-colors">Articles</Link>
               <Link href="/resources" className="hover:text-white transition-colors">Resources</Link>
               <Link href="/about" className="hover:text-white transition-colors">About</Link>
             </nav>

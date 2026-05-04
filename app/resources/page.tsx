@@ -36,6 +36,16 @@ export default function ResourcesPage() {
         </div>
       </section>
 
+      {/* Affiliate disclosure */}
+      <div className="bg-amber-50 border-l-4 border-amber-400 p-4 max-w-5xl mx-auto px-6 my-6">
+        <div className="flex items-start gap-3">
+          <span className="text-amber-600 text-lg">ⓘ</span>
+          <p className="text-amber-800 text-sm">
+            <strong>Affiliate Disclosure:</strong> ReceiptSafety.com is a participant in the Amazon Services LLC Associates Program. Some links on this page are affiliate links — if you click and make a purchase, we may earn a small commission at no extra cost to you. We only recommend products we believe are genuinely effective for reducing bisphenol exposure.
+          </p>
+        </div>
+      </div>
+
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-14 w-full">
 
         {/* Section 1 — Protection for Cashiers */}

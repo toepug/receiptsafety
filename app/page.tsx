@@ -265,6 +265,9 @@ export default function Home() {
               <Link href="/terms-of-service" className="hover:text-white transition-colors">Terms of Service</Link>
             </div>
             <p>© 2026 ReceiptSafety.com. For informational purposes only. Not medical advice.</p>
+            <p className="text-gray-500 text-xs mt-2">
+              Some links on this site are affiliate links. See our <Link href="/privacy-policy" className="underline">Privacy Policy</Link> for full disclosure.
+            </p>
           </div>
         </div>
       </footer>

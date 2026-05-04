@@ -4,11 +4,17 @@ import Image from "next/image";
 import PrintButton from "@/components/PrintButton";
 
 export const metadata: Metadata = {
-  title: "Manager Safety Memo — ReceiptSafety.com",
-  description:
-    "A printable one-page memo for retail managers on BPA/BPS chemical exposure from thermal paper receipts, including regulatory context and recommended actions.",
+  title: 'Manager Memo — Free Download | ReceiptSafety.com',
+  description: 'Free one-page memo explaining the 2026 Washington State bisphenol ban, health risks for staff, and cost-neutral safer paper alternatives. Print and hand to your supervisor.',
+  openGraph: {
+    title: 'Manager Memo — Free Download | ReceiptSafety.com',
+    description: 'Free one-page memo on the 2026 bisphenol ban and safer receipt paper alternatives.',
+    url: 'https://www.receiptsafety.com/manager-memo',
+    siteName: 'ReceiptSafety.com',
+    type: 'website',
+  },
   alternates: {
-    canonical: "https://receiptsafety.com/manager-memo",
+    canonical: 'https://www.receiptsafety.com/manager-memo',
   },
 };
 

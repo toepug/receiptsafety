@@ -2,8 +2,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Terms of Service — ReceiptSafety.com",
-  description: "Terms of service for ReceiptSafety.com.",
+  title: 'Terms of Service | ReceiptSafety.com',
+  description: 'Terms of service for ReceiptSafety.com.',
+  alternates: {
+    canonical: 'https://www.receiptsafety.com/terms-of-service',
+  },
 };
 
 export default function TermsOfServicePage() {

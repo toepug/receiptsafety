@@ -3,8 +3,18 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Articles — ReceiptSafety.com",
-  description: "Science-backed guides for retail workers and business owners on BPA, BPS, and thermal paper receipt safety.",
+  title: 'Articles | ReceiptSafety.com',
+  description: 'Science-based guides on BPA and BPS exposure from thermal paper receipts. Practical safety information for retail workers and business owners.',
+  openGraph: {
+    title: 'Articles | ReceiptSafety.com',
+    description: 'Science-based guides on BPA and BPS exposure from thermal paper receipts.',
+    url: 'https://www.receiptsafety.com/articles',
+    siteName: 'ReceiptSafety.com',
+    type: 'website',
+  },
+  alternates: {
+    canonical: 'https://www.receiptsafety.com/articles',
+  },
 };
 
 export default function ArticlesPage() {

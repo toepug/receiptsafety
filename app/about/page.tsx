@@ -3,9 +3,18 @@ import Link from "next/link";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "About — ReceiptSafety.com",
-  description:
-    "ReceiptSafety.com translates peer-reviewed research on bisphenol exposure into plain language — paired with practical solutions for retail workers and business owners.",
+  title: 'About | ReceiptSafety.com',
+  description: 'ReceiptSafety.com is a fact-first resource on bisphenol exposure from thermal paper receipts. Our mission is to protect retail workers and businesses with science-backed guidance.',
+  openGraph: {
+    title: 'About | ReceiptSafety.com',
+    description: 'Fact-first resource on bisphenol exposure from thermal paper receipts.',
+    url: 'https://www.receiptsafety.com/about',
+    siteName: 'ReceiptSafety.com',
+    type: 'website',
+  },
+  alternates: {
+    canonical: 'https://www.receiptsafety.com/about',
+  },
 };
 
 export default function AboutPage() {

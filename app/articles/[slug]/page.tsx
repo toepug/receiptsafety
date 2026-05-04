@@ -14,7 +14,35 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const article = await getArticleBySlug(slug);
-  return { title: `${article.title} — ReceiptSafety.com`, description: article.description };
+  return {
+    title: `${article.title} | ReceiptSafety.com`,
+    description: article.description,
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      url: `https://www.receiptsafety.com/articles/${article.slug}`,
+      siteName: 'ReceiptSafety.com',
+      type: 'article',
+      publishedTime: article.date,
+      images: [
+        {
+          url: 'https://www.receiptsafety.com/images/og-default.png',
+          width: 1200,
+          height: 630,
+          alt: article.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.description,
+      images: ['https://www.receiptsafety.com/images/og-default.png'],
+    },
+    alternates: {
+      canonical: `https://www.receiptsafety.com/articles/${article.slug}`,
+    },
+  };
 }
 
 export default async function ArticlePage({ params }: Props) {

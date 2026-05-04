@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy — ReceiptSafety.com",
-  description: "Privacy policy for ReceiptSafety.com, including affiliate disclosure and medical disclaimer.",
+  title: 'Privacy Policy | ReceiptSafety.com',
+  description: 'Privacy policy for ReceiptSafety.com including affiliate disclosure, data collection practices, and medical disclaimer.',
+  alternates: {
+    canonical: 'https://www.receiptsafety.com/privacy-policy',
+  },
 };
 
 export default function PrivacyPolicyPage() {

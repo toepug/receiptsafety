@@ -3,9 +3,18 @@ import Link from "next/link";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Recommended Resources — ReceiptSafety.com",
-  description:
-    "Vetted products and tools for reducing bisphenol exposure from thermal paper receipts — nitrile gloves, barrier creams, phenol-free paper, and compliance resources.",
+  title: 'Recommended Resources | ReceiptSafety.com',
+  description: 'Vetted products and tools for reducing bisphenol exposure from thermal paper receipts — nitrile gloves, skin barrier creams, and phenol-free paper suppliers.',
+  openGraph: {
+    title: 'Recommended Resources | ReceiptSafety.com',
+    description: 'Vetted products and tools for reducing bisphenol exposure from thermal paper receipts.',
+    url: 'https://www.receiptsafety.com/resources',
+    siteName: 'ReceiptSafety.com',
+    type: 'website',
+  },
+  alternates: {
+    canonical: 'https://www.receiptsafety.com/resources',
+  },
 };
 
 export default function ResourcesPage() {

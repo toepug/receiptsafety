@@ -259,8 +259,12 @@ export default function Home() {
               <Link href="/about" className="hover:text-white transition-colors">About</Link>
             </nav>
           </div>
-          <div className="border-t border-gray-800 mt-8 pt-6 text-xs text-center">
-            © 2026 ReceiptSafety.com. For informational purposes only. Not medical advice.
+          <div className="border-t border-gray-800 mt-8 pt-6 text-xs text-center space-y-2">
+            <div className="flex flex-wrap justify-center gap-4">
+              <Link href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</Link>
+              <Link href="/terms-of-service" className="hover:text-white transition-colors">Terms of Service</Link>
+            </div>
+            <p>© 2026 ReceiptSafety.com. For informational purposes only. Not medical advice.</p>
           </div>
         </div>
       </footer>

@@ -40,7 +40,7 @@ export default function ResourcesPage() {
 
         {/* Section 1 — Protection for Cashiers */}
         <section className="mb-16">
-          <p className="text-gray-400 text-xs text-center mb-8">
+          <p className="text-gray-400 text-xs text-center mt-2 mb-4">
             Some links below are affiliate links — we may earn a small commission at no cost to you. <a href="/privacy-policy" className="underline hover:text-gray-600">Full disclosure</a>.
           </p>
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Protection for Cashiers</h2>

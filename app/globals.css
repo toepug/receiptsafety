@@ -30,6 +30,16 @@ body {
   margin-bottom: 0.75rem;
 }
 
+.article-body a {
+  color: #1E6FCC;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.article-body a:hover {
+  color: #1457a3;
+}
+
 .article-body strong {
   color: #111827;
   font-weight: 700;

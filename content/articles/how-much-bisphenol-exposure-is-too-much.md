@@ -21,7 +21,7 @@ A caveat upfront: the science of bisphenol exposure is genuinely complex. Exposu
 Multiple regulatory bodies have established tolerable daily intake (TDI) or reference dose (RfD) values for BPA. These represent the amount of BPA a person can be exposed to every day over a lifetime without, in the regulator's assessment, a significant risk of harm.
 
 ### European Food Safety Authority (EFSA) — 2023 Revision
-EFSA conducted a comprehensive re-evaluation of BPA in 2023 and dramatically lowered its tolerable daily intake.
+[EFSA](https://www.efsa.europa.eu/en/efsajournal/pub/7667) conducted a comprehensive re-evaluation of BPA in 2023 and dramatically lowered its tolerable daily intake.
 
 **New TDI: 0.2 nanograms per kilogram of body weight per day (ng/kg bw/day)**
 
@@ -30,7 +30,7 @@ This represents a reduction of 20,000 times from EFSA's previous TDI of 4 microg
 For a 70kg (154 lb) adult, this translates to a total daily limit of **14 nanograms of BPA** — roughly 14 billionths of a gram.
 
 ### US Environmental Protection Agency (EPA)
-The EPA's reference dose for BPA, established in 1988 and not substantially revised since, is:
+The EPA's [reference dose](https://www.epa.gov/sites/default/files/2011-09/documents/bisphenol_a.pdf) for BPA, established in 1988 and not substantially revised since, is:
 
 **RfD: 50 micrograms per kilogram of body weight per day (µg/kg bw/day)**
 
@@ -83,7 +83,7 @@ Before we examine thermal paper, it is important to establish baseline BPA expos
 ### Dietary Exposure (Food and Packaging)
 Food is the primary BPA exposure route for most people who do not handle thermal paper occupationally. BPA leaches from polycarbonate containers and epoxy can linings into food and beverages, particularly when heated.
 
-Estimated dietary BPA exposure for average adults (from EFSA, CDC, and independent studies):
+Estimated dietary BPA exposure for average adults (from EFSA, [CDC](https://www.cdc.gov/biomonitoring/BisphenolA_BiomonitoringSummary.html), and independent studies):
 
 **Canned food consumers:** 0.2 to 1.5 micrograms per serving, depending on food type and can age. A person eating 2 canned food servings per day absorbs approximately 0.4 to 3 micrograms from this source alone.
 
@@ -122,9 +122,9 @@ Dermal (skin) absorption of BPA from thermal paper has been directly measured in
 
 **Key findings from published studies:**
 
-A 2010 study (Biedermann et al., Chemosphere) measured BPA transfer from thermal paper to fingertips. Handling a single receipt for 5 seconds transferred approximately **1 microgram** of BPA to the fingertips under dry conditions. Under wet conditions, transfer increased to approximately **10 micrograms**.
+A [2010 study (Biedermann et al., Chemosphere)](https://pubmed.ncbi.nlm.nih.gov/20005565/) measured BPA transfer from thermal paper to fingertips. Handling a single receipt for 5 seconds transferred approximately **1 microgram** of BPA to the fingertips under dry conditions. Under wet conditions, transfer increased to approximately **10 micrograms**.
 
-A 2014 study (Hormann et al., PLOS ONE) — the landmark cashier study — found that applying hand sanitizer before handling thermal paper increased dermal absorption into the bloodstream by up to **100 times** compared to dry hands. The study measured actual urinary BPA excretion and calculated absorbed doses.
+A [2014 study (Hormann et al., PLOS ONE)](https://pubmed.ncbi.nlm.nih.gov/24947840/) — the landmark [cashier study](/articles/2026-cashiers-safety-guide) — found that applying hand sanitizer before handling thermal paper increased dermal absorption into the bloodstream by up to **100 times** compared to dry hands. The study measured actual urinary BPA excretion and calculated absorbed doses.
 
 Dermal absorption efficiency for BPA through intact skin is estimated at 10% to 46% depending on skin hydration — meaning of the BPA that transfers to the skin, a significant fraction actually enters the bloodstream.
 
@@ -225,7 +225,7 @@ Many retail systems print an end-of-day or end-of-shift register tape summarizin
 
 ### Hand Sanitizer Multiplier
 
-Retail workers are required or strongly encouraged to use hand sanitizer frequently — at shift start, after breaks, after handling cash, and in many post-pandemic environments, every 30 to 60 minutes. A cashier using sanitizer 8 to 12 times per shift, with receipt handling occurring after each sanitizer application, faces the 100x absorption multiplier repeatedly throughout the day.
+Retail workers are required or strongly encouraged to use [hand sanitizer](/articles/2026-cashiers-safety-guide) frequently — at shift start, after breaks, after handling cash, and in many post-pandemic environments, every 30 to 60 minutes. A cashier using sanitizer 8 to 12 times per shift, with receipt handling occurring after each sanitizer application, faces the 100x absorption multiplier repeatedly throughout the day.
 
 ### Annual Cashier Exposure Estimate
 
@@ -279,8 +279,8 @@ Several important caveats apply to this analysis:
 
 For customers, receipt exposure is a real but relatively modest addition to an already-elevated background exposure. The single most impactful behavior change is avoiding receipt handling with recently sanitized hands.
 
-For cashiers and other thermal paper workers, the exposure picture is categorically different. The combination of high volume, frequent sanitizer use, and extended daily contact creates an occupational exposure profile that — by the most current European regulatory standards — exceeds safe limits by orders of magnitude.
+For [cashiers](/articles/2026-cashiers-safety-guide) and other [thermal paper workers](/articles/who-is-at-risk-from-thermal-paper-exposure), the exposure picture is categorically different. The combination of high volume, frequent sanitizer use, and extended daily contact creates an occupational exposure profile that — by the most current European regulatory standards — exceeds safe limits by orders of magnitude.
 
-Phenol-free thermal paper eliminates this exposure entirely. It costs roughly the same as conventional thermal paper. The barrier to switching is not cost or technical feasibility — it is awareness and organizational inertia.
+[Phenol-free thermal paper](/resources) eliminates this exposure entirely. It costs roughly the same as conventional thermal paper. The barrier to switching is not cost or technical feasibility — it is awareness and organizational inertia.
 
 The numbers in this article exist to address the awareness problem.

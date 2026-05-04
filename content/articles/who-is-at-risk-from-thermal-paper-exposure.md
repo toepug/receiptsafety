@@ -8,7 +8,7 @@ featured: false
 
 ## The Exposure Is Wider Than Most People Think
 
-When researchers and journalists discuss bisphenol exposure from thermal paper, the conversation almost always centers on retail cashiers. And for good reason — a cashier at a busy supermarket may handle 300 to 500 receipts in a single shift.
+When researchers and journalists discuss [bisphenol exposure](/articles/the-science-of-bisphenols) from thermal paper, the conversation almost always centers on [retail cashiers](/articles/2026-cashiers-safety-guide). And for good reason — a cashier at a busy supermarket may handle 300 to 500 receipts in a single shift.
 
 But thermal paper is not just used for point-of-sale receipts. It is the printing technology of choice wherever a fast, ink-free, low-maintenance printout is needed. That means thermal paper shows up in hospitals, optometry clinics, pharmacies, parking garages, courthouses, shipping warehouses, and dozens of other environments — and the people working in those environments are handling it every day, often without knowing what it contains.
 
@@ -133,7 +133,7 @@ Beyond the cash-out tickets mentioned above, casino dealers and floor staff hand
 
 Several factors make certain workers' exposure especially significant:
 
-**Hand sanitizer use:** Healthcare workers, food service staff, and anyone in a setting with infection control protocols uses hand sanitizer frequently. As documented in our Cashier's Safety Guide, this can increase dermal absorption of bisphenols by up to 100 times compared to dry hands. A hospital nurse who uses sanitizer 20 times per shift and handles thermal paper printouts each time has a dramatically higher exposure than their sanitizer use frequency alone would suggest.
+**Hand sanitizer use:** Healthcare workers, food service staff, and anyone in a setting with infection control protocols uses hand sanitizer frequently. As documented in our Cashier's Safety Guide, this can increase dermal absorption of bisphenols by up to [100 times](/articles/how-much-bisphenol-exposure-is-too-much) ([Hormann et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24947840/)) compared to dry hands. A hospital nurse who uses sanitizer 20 times per shift and handles thermal paper printouts each time has a dramatically higher exposure than their sanitizer use frequency alone would suggest.
 
 **Extended handling:** Workers who annotate, sort, file, or fold thermal paper — rather than simply passing it along — have longer skin contact time and higher exposure.
 
@@ -151,9 +151,9 @@ Regardless of your industry, the protective measures are the same:
 
 **Backside Handling:** The bisphenol coating is on the printed (shiny) side. Handle printouts from the unprinted back where possible.
 
-**Nitrile Gloves:** High-dexterity nitrile gloves provide a complete barrier. They are available in sizes suitable for fine work including clinical and laboratory settings.
+**[Nitrile Gloves](/resources):** High-dexterity nitrile gloves provide a complete barrier. They are available in sizes suitable for fine work including clinical and laboratory settings.
 
-**Advocate for Phenol-Free:** Ask your employer, equipment supplier, or institution to switch to phenol-free thermal paper. For medical equipment printouts, contact the device manufacturer to ask whether phenol-free paper is compatible with your equipment.
+**Advocate for Phenol-Free:** Ask your employer, equipment supplier, or institution to switch to [phenol-free thermal paper](/resources). For medical equipment printouts, contact the device manufacturer to ask whether phenol-free paper is compatible with your equipment.
 
 **Digital Alternatives:** Many of the thermal paper uses described in this article have digital alternatives. Electronic health records reduce the need for printed diagnostic output. Digital receipts eliminate point-of-sale paper. E-tickets replace paper event tickets. Advocating for digital workflows where they exist is the most complete solution.
 

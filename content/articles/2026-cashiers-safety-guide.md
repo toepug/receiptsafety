@@ -12,7 +12,7 @@ Before we look at the risks, let's break down the words scientists use.
 
 **Thermal Paper** is the professional name for receipt paper. It's called "thermal" because it doesn't use liquid ink. Instead, the paper is coated in a chemical that turns black when the heated print head of your register touches it. No ink cartridge needed — the chemical is the ink.
 
-**Bisphenols** are the family of chemicals that make this coating work. Think of them like an invisible chemical dust sitting on the very surface of the paper — right where your fingers touch.
+**[Bisphenols](/articles/the-science-of-bisphenols)** are the family of chemicals that make this coating work. Think of them like an invisible chemical dust sitting on the very surface of the paper — right where your fingers touch.
 
 **BPA (Bisphenol A)** is the most well-known member of this chemical family and was used in most thermal paper for decades.
 
@@ -42,13 +42,13 @@ This is the most important fact for 2026.
 
 Your skin normally acts as a shield against chemicals. But hand sanitizer contains penetration enhancers — ingredients designed to help things absorb through skin quickly. These don't just help the sanitizer absorb. They turn your skin's shield into a doorway for everything on your hands, including bisphenols from receipts.
 
-Research shows that handling receipts with wet or recently sanitized hands increases bisphenol absorption through the skin by up to **100 times** compared to dry hands.
+[Research shows](https://pubmed.ncbi.nlm.nih.gov/24947840/) that handling receipts with wet or recently sanitized hands increases bisphenol absorption through the skin by up to **[100 times](/articles/how-much-bisphenol-exposure-is-too-much)** compared to dry hands.
 
 The rule is simple: **dry hands before receipts.**
 
 ### The "BPA-Free" Myth
 
-Don't let a "BPA-Free" label give you a false sense of security. Most BPA-Free thermal paper simply substitutes BPS — a chemical so structurally similar that researchers believe it carries identical health risks. Studies confirm BPS is just as potent an endocrine disruptor as BPA.
+Don't let a "BPA-Free" label give you a false sense of security. Most BPA-Free thermal paper simply substitutes BPS — a chemical so structurally similar that researchers believe it carries identical health risks. [Studies confirm](https://pubmed.ncbi.nlm.nih.gov/23164578/) BPS is just as potent an endocrine disruptor as BPA.
 
 ---
 
@@ -70,7 +70,7 @@ If you must use sanitizer, wait until your hands are **completely dry** — at l
 
 ### Step 3: The Manager Memo — Do This for Your Future
 
-Download our free Manager Memo. It's a simple one-page document that explains the 2026 health risks, cites the Washington State bisphenol ban, and lists safer paper alternatives. Hand it to your supervisor or HR rep so they can help make the whole store safer.
+Download our free [Manager Memo](/manager-memo). It's a simple one-page document that explains the 2026 health risks, cites the Washington State bisphenol ban, and lists safer paper alternatives. Hand it to your supervisor or HR rep so they can help make the whole store safer.
 
 ---
 
@@ -83,13 +83,13 @@ Never handle receipts when your hands are wet from sanitizer or lotion. Plain so
 The bisphenol coating is on the shiny printed side of the receipt. Grab receipts from the edges or the unprinted back side, and fold them with the printed side facing inward. This one habit alone significantly reduces your daily exposure.
 
 ### Nitrile Gloves
-If you want a complete barrier, use nitrile gloves — the blue or black ones. Clear vinyl or latex gloves are not effective against bisphenols; the chemicals can penetrate them. Look for thin, high-dexterity nitrile gloves designed for food service — they won't slow you down at the register.
+If you want a complete barrier, use [nitrile gloves](/resources) — the blue or black ones. Clear vinyl or latex gloves are not effective against bisphenols; the chemicals can penetrate them. Look for thin, high-dexterity nitrile gloves designed for food service — they won't slow you down at the register.
 
 ---
 
 ## Part 6: How to Talk to Your Manager
 
-In 2026, Washington State enacted a full ban on bisphenols in thermal paper — the most comprehensive receipt chemical legislation in the US to date. California's AB 1604 is pending, which would extend similar protections statewide.
+In 2026, [Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222) enacted a full ban on bisphenols in thermal paper — the most comprehensive receipt chemical legislation in the US to date. California's AB 1604 is pending, which would extend similar protections statewide.
 
 These laws exist because the science is clear: bisphenol exposure from receipts is a real, measurable risk that falls disproportionately on retail workers.
 

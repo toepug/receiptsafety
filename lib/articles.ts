@@ -52,6 +52,12 @@ export async function getArticleBySlug(slug: string): Promise<Article> {
     contentHtml = contentHtml.slice(h2Index);
   }
 
+  // Open all external links in a new tab
+  contentHtml = contentHtml.replace(
+    /<a href="(https?:\/\/[^"]+)"/g,
+    '<a href="$1" target="_blank" rel="noopener noreferrer"'
+  );
+
   contentHtml = injectAnchors(contentHtml);
 
   return {

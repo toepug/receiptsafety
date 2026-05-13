@@ -153,7 +153,7 @@ Regardless of your industry, the protective measures are the same:
 
 **[Nitrile Gloves](/resources):** High-dexterity nitrile gloves provide a complete barrier. They are available in sizes suitable for fine work including clinical and laboratory settings.
 
-**Advocate for Phenol-Free:** Ask your employer, equipment supplier, or institution to switch to [phenol-free thermal paper](/resources). For medical equipment printouts, contact the device manufacturer to ask whether phenol-free paper is compatible with your equipment.
+**Advocate for Phenol-Free:** Ask your employer, equipment supplier, or institution to switch to [phenol-free thermal paper](/resources). For medical equipment printouts, contact the device manufacturer to ask whether phenol-free paper is compatible with your equipment. You can check whether your employer has switched using our [2026 Retailer Receipt Paper Scorecard](/articles/which-retailers-use-bpa-free-receipt-paper).
 
 **Digital Alternatives:** Many of the thermal paper uses described in this article have digital alternatives. Electronic health records reduce the need for printed diagnostic output. Digital receipts eliminate point-of-sale paper. E-tickets replace paper event tickets. Advocating for digital workflows where they exist is the most complete solution.
 

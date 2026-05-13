@@ -8,11 +8,11 @@ featured: false
 
 ## The Receipt Paper Reckoning
 
-Washington State's January 2026 ban on bisphenols in thermal paper forced a question every major US retailer had been avoiding: what chemicals are we putting in our customers' and employees' hands every day?
+[Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222)'s January 2026 ban on [bisphenols](/articles/the-science-of-bisphenols) in thermal paper forced a question every major US retailer had been avoiding: what chemicals are we putting in our customers' and [employees' hands](/articles/2026-cashiers-safety-guide) every day?
 
 The answer, for most of them, was uncomfortable.
 
-A survey conducted by [Toxic-Free Future](https://toxicfreefuture.org), an environmental health advocacy organization, contacted 46 major US retailers ahead of the Washington State ban to ask about their receipt paper policies. The results revealed a stark divide: a minority of retailers had proactively switched to safer alternatives nationally, while the majority either hadn't acted or refused to disclose their status.
+A survey conducted by [Toxic-Free Future](https://toxicfreefuture.org/press-room/washington-states-first-in-the-nation-ban-on-toxic-bisphenols-in-receipts-takes-effect/), an environmental health advocacy organization, contacted 46 major US retailers ahead of the Washington State ban to ask about their receipt paper policies. The results revealed a stark divide: a minority of retailers had proactively switched to safer alternatives nationally, while the majority either hadn't acted or refused to disclose their status.
 
 This article presents the findings, explains what "phenol-free" actually means, and tells you how to check what your own store is using.
 
@@ -56,7 +56,7 @@ As of early 2026, the following major retailers have confirmed they have restric
 
 These 18 retailers represent a significant portion of US retail traffic. If you shop primarily at these stores, your receipt exposure from those locations is substantially reduced.
 
-Notable confirmed switchers like Best Buy, Kroger, PetSmart, and Walgreens have transitioned to verified safer alternatives such as Pergafast — a developing agent identified by Washington State as a safe alternative to bisphenols.
+Notable confirmed switchers like Best Buy, Kroger, PetSmart, and Walgreens have transitioned to verified safer alternatives such as [Pergafast](/resources) — a developing agent identified by Washington State as a safe alternative to bisphenols.
 
 ---
 
@@ -64,7 +64,7 @@ Notable confirmed switchers like Best Buy, Kroger, PetSmart, and Walgreens have 
 
 More than half of the 46 major retailers surveyed — 27 to 28 depending on the survey date — either did not respond to Toxic-Free Future's inquiries or have not publicly disclosed action restricting bisphenols in receipts nationally.
 
-This group includes many of the highest-traffic retailers in the United States. Without disclosure, consumers and workers have no way of knowing whether the receipts at these stores contain bisphenols.
+This group includes many of the highest-traffic retailers in the United States. Without disclosure, consumers and [workers](/articles/who-is-at-risk-from-thermal-paper-exposure) have no way of knowing whether the receipts at these stores contain bisphenols.
 
 **What non-disclosure means in practice:**
 A retailer that does not respond to questions about its receipt paper policy is not necessarily using bisphenol paper. Some retailers have made changes without publicizing them. However, without verification, there is no way to confirm compliance — and workers at those locations cannot know their exposure status.
@@ -78,7 +78,7 @@ The Washington State ban covers retailers operating in Washington. Retailers wit
 Not all bisphenol-free claims are equal. There are three tiers of receipt paper safety:
 
 **Tier 1 — Phenol-Free (Genuinely Safe)**
-Paper using alternative developing chemistry with no bisphenol compounds of any kind. Examples include Blue4est (Koehler Paper) and Pergafast-based papers. Washington State specifically identified Pergafast as a verified safe alternative. These papers are the gold standard.
+Paper using alternative developing chemistry with no bisphenol compounds of any kind. Examples include [Blue4est](/resources) (Koehler Paper) and [Pergafast](/resources)-based papers. Washington State specifically identified Pergafast as a verified safe alternative. These papers are the gold standard.
 
 **Tier 2 — BPA-Free but BPS-Containing**
 The most common "green-washing" scenario. When BPA came under regulatory pressure, most manufacturers substituted BPS — a structurally identical compound with essentially equivalent health risks. Paper labeled "BPA-Free" almost always falls into this category unless it explicitly states "phenol-free" or "BPS-free."
@@ -126,7 +126,7 @@ Washington's ban is creating a national ripple effect. Because major retailers o
 
 "This is making a difference not just in Washington state but across the country, because retailers are changing what they are doing everywhere to be in compliance here," said Cheri Peele, director of government and market policy at Toxic-Free Future.
 
-California's AB 1604 is pending — if passed, it would extend mandatory phenol-free requirements to the largest retail market in the US, accelerating the national transition further.
+California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1604) is pending — if passed, it would extend mandatory phenol-free requirements to the largest retail market in the US, accelerating the national transition further.
 
 The trajectory is clear: bisphenol receipt paper is being phased out. The question is timing — and whether that timing protects workers who are being exposed today.
 

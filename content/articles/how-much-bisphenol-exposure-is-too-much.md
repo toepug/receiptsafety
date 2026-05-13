@@ -284,3 +284,5 @@ For [cashiers](/articles/2026-cashiers-safety-guide) and other [thermal paper wo
 [Phenol-free thermal paper](/resources) eliminates this exposure entirely. It costs roughly the same as conventional thermal paper. The barrier to switching is not cost or technical feasibility — it is awareness and organizational inertia.
 
 The numbers in this article exist to address the awareness problem.
+
+For a current list of which major retailers have switched to phenol-free paper, see our [2026 Retailer Scorecard](/articles/which-retailers-use-bpa-free-receipt-paper).

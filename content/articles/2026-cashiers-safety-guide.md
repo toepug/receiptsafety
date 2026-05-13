@@ -101,6 +101,8 @@ You can ask your manager to make three changes:
 
 **Encourage digital receipts.** The safest receipt is no receipt. Email and text receipts eliminate the exposure entirely and cost the store nothing extra.
 
+For a full breakdown of which major retailers have already switched nationally, see our [2026 Retailer Receipt Paper Scorecard](/articles/which-retailers-use-bpa-free-receipt-paper).
+
 ---
 
 ## Stay Informed

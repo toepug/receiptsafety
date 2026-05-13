@@ -133,3 +133,5 @@ The most complete solution is eliminating paper receipts entirely. Email, SMS, a
 
 **The transition challenge:**
 Switching to phenol-free paper requires no changes to existing thermal printers — the paper is a drop-in replacement. The primary barriers are cost (phenol-free paper carries a modest price premium) and supply chain inertia. As regulations expand and consumer awareness grows, the economic case for phenol-free paper continues to strengthen.
+
+A growing number of major US retailers have proactively switched ahead of regulation. See our [2026 Retailer Scorecard](/articles/which-retailers-use-bpa-free-receipt-paper) for the full list.

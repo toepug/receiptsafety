@@ -141,6 +141,8 @@ Several factors make certain workers' exposure especially significant:
 
 **Lack of awareness:** Unlike cashiers, who have been the subject of public health campaigns and some workplace safety discussions, most of the workers in this article have never been informed that the paper they handle contains endocrine-disrupting chemicals. This means they have taken no protective measures whatsoever.
 
+For anyone in these groups who is planning a family or concerned about reproductive health, the [research on bisphenols and fertility](/articles/bpa-fertility-and-reproduction) is worth reading in full.
+
 ---
 
 ## Part 8: What Every At-Risk Worker Can Do

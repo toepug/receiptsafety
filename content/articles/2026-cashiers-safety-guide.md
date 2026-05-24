@@ -46,6 +46,8 @@ Your skin normally acts as a shield against chemicals. But hand sanitizer contai
 
 The rule is simple: **dry hands before receipts.**
 
+Reproductive health is another concern worth understanding — BPA and its substitutes have been linked to fertility impacts in both men and women, which is especially relevant for cashiers of childbearing age. See our article on [BPA, BPS, and fertility](/articles/bpa-fertility-and-reproduction) for the full picture.
+
 ### The "BPA-Free" Myth
 
 Don't let a "BPA-Free" label give you a false sense of security. Most BPA-Free thermal paper simply substitutes BPS — a chemical so structurally similar that researchers believe it carries identical health risks. [Studies confirm](https://pubmed.ncbi.nlm.nih.gov/23164578/) BPS is just as potent an endocrine disruptor as BPA.

@@ -73,7 +73,7 @@ Scientific concern about BPA's biological activity began to re-emerge in the 199
 The body of research linking bisphenol exposure to adverse health outcomes has grown substantially over three decades. The following associations have been documented in peer-reviewed literature:
 
 **Reproductive and developmental effects:**
-Altered reproductive development in animal models, reduced sperm quality in men with higher BPA exposure, disrupted menstrual cycles, earlier onset of puberty in girls, and adverse pregnancy outcomes have all been associated with bisphenol exposure in epidemiological studies.
+Altered reproductive development in animal models, reduced sperm quality in men with higher BPA exposure, disrupted menstrual cycles, earlier onset of puberty in girls, and adverse pregnancy outcomes have all been associated with bisphenol exposure in epidemiological studies. Among the most studied effects is the impact on fertility specifically — see our full article on [BPA, BPS, and fertility](/articles/bpa-fertility-and-reproduction) for a detailed look at what the research shows.
 
 **Cardiovascular disease:**
 A [2008 study in JAMA](https://pubmed.ncbi.nlm.nih.gov/18799442/) found that higher urinary BPA concentrations were associated with increased rates of cardiovascular disease, diabetes, and liver enzyme abnormalities in a large sample of US adults — an association that held after controlling for age, sex, race, and other risk factors.

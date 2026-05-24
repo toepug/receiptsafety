@@ -257,6 +257,8 @@ Applying a 10x multiplier (conservative, accounting for partial sanitizer effect
 | Cashier (receipts, dry hands) | 700,000 nanograms | 50,000x |
 | Cashier (receipts, with sanitizer) | 7,000,000 nanograms | 500,000x |
 
+These elevated exposure levels are particularly relevant for reproductive health — see [BPA, BPS, and fertility](/articles/bpa-fertility-and-reproduction) for what the science says about the connection between occupational bisphenol exposure and fertility outcomes.
+
 ---
 
 ## Part 6: Putting the Numbers in Context

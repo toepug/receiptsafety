@@ -130,6 +130,8 @@ California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xh
 
 The trajectory is clear: bisphenol receipt paper is being phased out. The question is timing — and whether that timing protects workers who are being exposed today.
 
+If you own or manage a business and need a plain-English breakdown of what the Washington ban requires and how to switch, see our [Washington State receipt paper compliance guide](/articles/washington-state-receipt-paper-ban-compliance-guide).
+
 ---
 
 ## How to Stay Updated

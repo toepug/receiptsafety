@@ -108,7 +108,7 @@ The EU restricted BPA in thermal paper in 2020 under [REACH regulations](https:/
 **In the United States:**
 Connecticut was the first US state to restrict BPA in thermal paper (2013), but the law exempted BPS, rendering it largely ineffective.
 
-[Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222) passed the most comprehensive US legislation to date — a ban on all bisphenol compounds (not just BPA) in thermal paper, effective 2026. This closed the BPS loophole that undermined earlier regulations.
+[Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222) passed the most comprehensive US legislation to date — a ban on all bisphenol compounds (not just BPA) in thermal paper, effective 2026. This closed the BPS loophole that undermined earlier regulations. For a plain-English overview of what the law requires and how businesses can comply, see our [Washington State compliance guide](/articles/washington-state-receipt-paper-ban-compliance-guide).
 
 California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1604), currently pending, would extend similar protections statewide. If passed, it would cover the largest economy in the US and effectively set a national standard.
 

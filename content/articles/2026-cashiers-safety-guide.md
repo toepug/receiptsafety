@@ -91,7 +91,7 @@ If you want a complete barrier, use [nitrile gloves](/resources) — the blue or
 
 ## Part 6: How to Talk to Your Manager
 
-In 2026, [Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222) enacted a full ban on bisphenols in thermal paper — the most comprehensive receipt chemical legislation in the US to date. California's AB 1604 is pending, which would extend similar protections statewide.
+In 2026, [Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222) enacted a full ban on bisphenols in thermal paper — the most comprehensive receipt chemical legislation in the US to date. California's AB 1604 is pending, which would extend similar protections statewide. If your manager wants the details on what the law requires and how to switch paper, our [Washington State compliance guide for business owners](/articles/washington-state-receipt-paper-ban-compliance-guide) covers it.
 
 These laws exist because the science is clear: bisphenol exposure from receipts is a real, measurable risk that falls disproportionately on retail workers.
 

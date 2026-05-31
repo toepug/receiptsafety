@@ -39,6 +39,8 @@ Mission: fact-first, authoritative, not scaremongering.
 - who-is-at-risk-from-thermal-paper-exposure.md — All professions at risk beyond cashiers.
 - how-much-bisphenol-exposure-is-too-much.md — Data-driven comparison of regulatory limits vs real-world exposure.
 - which-retailers-use-bpa-free-receipt-paper.md — 2026 retailer scorecard, who has switched and who hasn't.
+- bpa-fertility-and-reproduction.md — BPA/BPS effects on fertility and reproductive health in men and women.
+- washington-state-receipt-paper-ban-compliance-guide.md — Plain-English compliance guide for Washington State bisphenol ban; covers California AB 1604.
 
 ## Article System
 - getAllArticles() — scans /content/articles/, parses frontmatter, sorts by date descending
@@ -117,7 +119,7 @@ featured: false
 - Amazon Associates approval — swap generic Amazon links for tracked affiliate URLs
 - Email hosting — hello@receiptsafety.com needs to be configured (Namecheap Private Email or forwarding)
 - Newsletter signup — articles reference "Safe Hands Newsletter" but no signup exists yet
-- 4 more planned articles: BPA and fertility, business compliance guide, BPA in money/cash, whole-life BPA reduction guide
+- 2 more planned articles: BPA in money/cash, whole-life BPA reduction guide
 
 ## Contact
 - hello@receiptsafety.com (not yet configured)

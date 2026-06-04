@@ -130,6 +130,8 @@ When BPA was first scrutinized, many paper manufacturers simply swapped it for B
 
 This is sometimes called "regrettable substitution" — replacing one problematic chemical with a chemically similar cousin that causes the same problems. The only label that confirms genuine compliance is **"phenol-free."**
 
+Phenol-free paper also resolves the recycling side of the equation: unlike conventional BPA or BPS thermal paper, it doesn't spread bisphenols into the paper pulping process when recycled. For more on what happens to conventional receipts in the recycling stream, see [Can You Recycle Receipts?](/articles/can-you-recycle-receipts).
+
 ---
 
 *The information in this article is current as of May 2026. Regulatory details can change. For the authoritative source on Washington State's Safer Products rules, visit ecology.wa.gov. For California AB 1604 status updates, visit the California Legislature's official bill tracking page.*

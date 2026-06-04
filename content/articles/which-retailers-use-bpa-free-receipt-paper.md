@@ -78,7 +78,7 @@ The Washington State ban covers retailers operating in Washington. Retailers wit
 Not all bisphenol-free claims are equal. There are three tiers of receipt paper safety:
 
 **Tier 1 — Phenol-Free (Genuinely Safe)**
-Paper using alternative developing chemistry with no bisphenol compounds of any kind. Examples include [Blue4est](/resources) (Koehler Paper) and [Pergafast](/resources)-based papers. Washington State specifically identified Pergafast as a verified safe alternative. These papers are the gold standard.
+Paper using alternative developing chemistry with no bisphenol compounds of any kind. Examples include [Blue4est](/resources) (Koehler Paper) and [Pergafast](/resources)-based papers. Washington State specifically identified Pergafast as a verified safe alternative. These papers are the gold standard. Phenol-free paper also eliminates the recycling contamination problem — unlike BPA and BPS paper, it doesn't release hormone-disrupting chemicals into the paper pulping process. For what actually happens to conventional receipts in the recycling stream, see [Can You Recycle Receipts?](/articles/can-you-recycle-receipts).
 
 **Tier 2 — BPA-Free but BPS-Containing**
 The most common "green-washing" scenario. When BPA came under regulatory pressure, most manufacturers substituted BPS — a structurally identical compound with essentially equivalent health risks. Paper labeled "BPA-Free" almost always falls into this category unless it explicitly states "phenol-free" or "BPS-free."

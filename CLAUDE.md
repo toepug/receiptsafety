@@ -41,6 +41,7 @@ Mission: fact-first, authoritative, not scaremongering.
 - which-retailers-use-bpa-free-receipt-paper.md — 2026 retailer scorecard, who has switched and who hasn't.
 - bpa-fertility-and-reproduction.md — BPA/BPS effects on fertility and reproductive health in men and women.
 - washington-state-receipt-paper-ban-compliance-guide.md — Plain-English compliance guide for Washington State bisphenol ban; covers California AB 1604.
+- can-you-recycle-receipts.md — Why thermal receipts cannot be recycled; recycling contamination, disposal guidance, and the environmental case for phenol-free paper.
 
 ## Article System
 - getAllArticles() — scans /content/articles/, parses frontmatter, sorts by date descending

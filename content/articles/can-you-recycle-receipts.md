@@ -30,13 +30,13 @@ The problem is that thermal receipt paper is fundamentally different from regula
 
 When thermal paper enters the pulping tank at a paper mill, that free BPA or BPS coating dissolves into the water and mixes through the entire pulp batch. Unlike ink, which can be removed through a de-inking process, BPA and BPS are not targeted by standard recycling treatment. They don't bind to the fiber — they wash through it. Most ends up in the process water, which becomes wastewater. Some binds to the recycled paper fiber itself and ends up in the finished product.
 
-According to a 2015 EPA review, approximately 1.5 million pounds of BPA were reaching paper recycling sites in the United States every year from thermal paper alone. The European Commission estimated that in Europe, up to 30 percent of used thermal paper was eventually entering the recycling stream.
+According to a [2015 EPA review](https://www.epa.gov/sites/default/files/2015-08/documents/bpa_final.pdf), approximately 1.5 million pounds of BPA were reaching paper recycling sites in the United States every year from thermal paper alone. The European Commission estimated that in Europe, up to 30 percent of used thermal paper was eventually entering the recycling stream.
 
 ## What Gets Contaminated
 
 The downstream effects are documented in peer-reviewed research.
 
-A 2011 study published in *Environmental Science and Technology* tested 202 paper products collected from cities across the United States — everything from receipts to napkins, toilet paper, food cartons, newspapers, and boarding passes. BPA was detected in 94% of thermal receipts (the source), but also in 81% of the other paper products tested. The products with the highest concentrations after receipts themselves were napkins, toilet paper, and food contact papers — items made predominantly from recycled paper content.
+A [2011 study published in *Environmental Science and Technology*](https://pubs.acs.org/doi/10.1021/es203597f) tested 202 paper products collected from cities across the United States — everything from receipts to napkins, toilet paper, food cartons, newspapers, and boarding passes. BPA was detected in 94% of thermal receipts (the source), but also in 81% of the other paper products tested. The products with the highest concentrations after receipts themselves were napkins, toilet paper, and food contact papers — items made predominantly from recycled paper content.
 
 A separate analysis of recycled toilet paper published in the same period found BPA concentrations between 3.2 and 46.1 milligrams per kilogram of dry material — a significant level for a product in intimate contact with skin and mucous membranes.
 
@@ -58,7 +58,7 @@ This is a rarely discussed angle: [workers](/articles/who-is-at-risk-from-therma
 
 Given that most receipts can't and shouldn't be recycled, where do they go?
 
-The answer, for the vast majority, is **landfill**. Americans generate roughly 280,000 metric tons of receipt paper per year. Most of that, eventually, goes to trash.
+The answer, for the vast majority, is **landfill**. Americans generate [roughly 280,000 metric tons](https://reports.greenamerica.org/skip-the-slip) of receipt paper per year. Most of that, eventually, goes to trash.
 
 In a modern, lined landfill with leachate collection, BPA from receipts doesn't disappear — it gradually leaches out of the paper as the material breaks down. Landfill leachate studies have detected BPA at concentrations up to 17,200 micrograms per liter in untreated leachate from Japanese landfills. In the United States, EPA data show BPA concentrations in landfill leachate up to 1.7 micrograms per liter, with detectable levels in adjacent groundwater plumes.
 
@@ -74,7 +74,7 @@ A small number of municipalities — San Francisco and Portland among them — o
 
 Given all of this, here is the practical guidance:
 
-**Throw thermal receipts in the regular trash.** This is the current best practice recommended by the Minnesota Pollution Control Agency, the Washington Department of Ecology, and environmental researchers. A modern lined landfill is a worse outcome than no receipt at all, but it is a better outcome than recycling contamination or composting contamination. Landfill contains BPA with less active spread than either alternative.
+**Throw thermal receipts in the regular trash.** This is the current best practice recommended by the [Minnesota Pollution Control Agency](https://www.pca.state.mn.us/business-with-us/bpa-and-bps-in-thermal-paper), the [Washington Department of Ecology](https://ecology.wa.gov/waste-toxics/reducing-toxic-chemicals/safer-products-for-washington), and environmental researchers. A modern lined landfill is a worse outcome than no receipt at all, but it is a better outcome than recycling contamination or composting contamination. Landfill contains BPA with less active spread than either alternative.
 
 **Do not put them in the recycling bin.** Even small amounts of thermal paper in a paper recycling bale can release significant BPA into the pulping process. You're not just failing to recycle one slip of paper — you're potentially contaminating an entire batch that gets turned into napkins or toilet paper.
 

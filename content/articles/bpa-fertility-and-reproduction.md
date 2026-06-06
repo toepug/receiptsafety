@@ -70,7 +70,7 @@ Two things make absorption worse:
 - **Hand sanitizer** — increases skin permeability, potentially boosting BPA absorption by up to 100 times
 - **Lotions and moisturizers** — similar effect; the emollients open up the skin barrier
 
-The European Union has explicitly flagged cashiers as a population at risk of unsafe BPA exposure levels from thermal paper. The Minnesota Pollution Control Agency specifically recommends that pregnant cashiers and women of childbearing age be given the option to switch to non-receipt duties where possible.
+The [European Union has explicitly flagged cashiers](https://echa.europa.eu/hot-topics/bisphenol-a) as a population at risk of unsafe BPA exposure levels from thermal paper. The [Minnesota Pollution Control Agency](https://www.pca.state.mn.us/business-with-us/bpa-and-bps-in-thermal-paper) specifically recommends that pregnant cashiers and women of childbearing age be given the option to switch to non-receipt duties where possible.
 
 ---
 

@@ -12,7 +12,7 @@ This guide cuts through the legal language and tells you exactly what changed, w
 
 ## What Changed on January 1, 2026
 
-Washington's ban was passed under the state's **Safer Products for Washington** law. Starting January 1, 2026, it is illegal to manufacture, sell, distribute, or use thermal paper containing any bisphenol chemical — including BPA, BPS, and their chemical relatives — within Washington State.
+Washington's ban was passed under the state's [**Safer Products for Washington**](https://ecology.wa.gov/waste-toxics/reducing-toxic-chemicals/safer-products-for-washington) law. Starting January 1, 2026, it is illegal to manufacture, sell, distribute, or use thermal paper containing any bisphenol chemical — including BPA, BPS, and their chemical relatives — within Washington State.
 
 The limit is strict: receipt paper can contain **no more than 200 parts per million (ppm)** of bisphenol. In practice, that means any paper intentionally coated with a bisphenol developer is now prohibited.
 
@@ -22,7 +22,7 @@ The ban covers:
 - Thermal shipping labels
 - Any other thermal paper product where bisphenols are used as a print developer
 
-Washington is the first U.S. state to take this step. The European Union banned BPA from thermal paper back in 2020, and the U.S. is now starting to follow suit, state by state.
+Washington is the first U.S. state to take this step. The European Union [banned BPA from thermal paper back in 2020](https://echa.europa.eu/hot-topics/bisphenol-a), and the U.S. is now starting to follow suit, state by state.
 
 ## Why Did Washington Do This?
 
@@ -89,7 +89,7 @@ For details and to apply, visit the Washington State Department of Ecology's web
 
 ## What About California?
 
-California is next. **Assembly Bill 1604**, introduced in January 2026 and authored by Assembly Member Catherine Stefani, would ban bisphenols from thermal receipts statewide on a two-step timeline:
+California is next. [**Assembly Bill 1604**](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1604), introduced in January 2026 and authored by Assembly Member Catherine Stefani, would ban bisphenols from thermal receipts statewide on a two-step timeline:
 
 - **January 1, 2027:** BPA prohibited from all paper receipts
 - **January 1, 2028:** All bisphenols (including BPS) prohibited
@@ -104,7 +104,7 @@ California already has a related pressure point: BPA and BPS are listed on the s
 
 Washington's ban is already rippling outward. Because major national retailers don't want to manage separate supply chains for one state, many have switched to bisphenol-free receipts everywhere. A [2026 survey by Toxic-Free Future](/articles/which-retailers-use-bpa-free-receipt-paper) found 18 of 46 major retailers had restricted bisphenols in their receipts nationally — including Costco, CVS, Home Depot, Target, Walgreens, Whole Foods, and Starbucks.
 
-Toxic-Free Future's spokesperson noted: "This is making a difference not just in Washington state but across the country, because retailers are changing what they are doing everywhere to be in compliance here."
+[Toxic-Free Future](https://toxicfreefuture.org/research/receipt-paper/)'s spokesperson noted: "This is making a difference not just in Washington state but across the country, because retailers are changing what they are doing everywhere to be in compliance here."
 
 More states are watching. The legislative momentum around bisphenols in receipts is the strongest it has ever been. For business owners, the question is no longer *whether* to switch — it's *when*.
 

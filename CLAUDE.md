@@ -43,6 +43,25 @@ Mission: fact-first, authoritative, not scaremongering.
 - washington-state-receipt-paper-ban-compliance-guide.md — Plain-English compliance guide for Washington State bisphenol ban; covers California AB 1604.
 - can-you-recycle-receipts.md — Why thermal receipts cannot be recycled; recycling contamination, disposal guidance, and the environmental case for phenol-free paper.
 
+## Article Registry
+
+This is the canonical list of published articles. Update this table every time
+a new article is published.
+
+| Slug | Title | Topic Summary |
+|------|-------|---------------|
+| the-science-of-bisphenols | The Science of Bisphenols | BPA/BPS history, manufacturing, health impacts |
+| who-is-at-risk-from-thermal-paper-exposure | Who Is At Risk From Thermal Paper Exposure | All professions at risk beyond cashiers |
+| how-much-bisphenol-exposure-is-too-much | How Much Bisphenol Exposure Is Too Much | Regulatory limits vs real-world exposure data |
+| which-retailers-use-bpa-free-receipt-paper | Which Retailers Use BPA-Free Receipt Paper | 2026 retailer scorecard |
+| bpa-fertility-and-reproduction | BPA, Fertility and Reproduction | BPA/BPS effects on fertility and reproductive health |
+| 2026-cashiers-safety-guide | 2026 Cashiers Safety Guide | Flagship guide for retail cashiers |
+| washington-state-receipt-paper-ban-compliance-guide | Washington State Receipt Paper Ban Compliance Guide | Washington State 2026 ban, business compliance |
+| can-you-recycle-receipts | Can You Recycle Receipts | Thermal paper waste, recycling contamination |
+
+Note: hand-sanitizer-bpa-receipt-absorption.md was drafted but confirm
+file exists in /content/articles/ before adding to this table.
+
 ## Article System
 - getAllArticles() — scans /content/articles/, parses frontmatter, sorts by date descending
 - getArticleBySlug(slug) — reads markdown, parses frontmatter, converts to HTML with remark, strips leading h1, injects anchor IDs for Step headings, adds target="_blank" to external links

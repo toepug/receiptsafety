@@ -98,6 +98,8 @@ As of spring 2026, the bill has passed the Assembly Committee on Environmental S
 
 California already has a related pressure point: BPA and BPS are listed on the state's Prop 65 registry as chemicals known to cause cancer, birth defects, or reproductive harm. California businesses using bisphenol-coated receipts without proper Prop 65 warning signage are already exposed to enforcement actions — and in 2025, there were a growing number of such actions filed against retail, food service, and hospitality businesses.
 
+For the full breakdown of AB 1604's deadlines, penalties, and a step-by-step compliance checklist, see our [California AB 1604 compliance guide](/articles/california-ab-1604-compliance-guide).
+
 **The practical takeaway:** If you operate in both Washington and California, switching to phenol-free paper now puts you ahead of both laws.
 
 ## The Bigger Trend: This Is Going National

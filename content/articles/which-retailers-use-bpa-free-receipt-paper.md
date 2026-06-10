@@ -126,7 +126,7 @@ Washington's ban is creating a national ripple effect. Because major retailers o
 
 "This is making a difference not just in Washington state but across the country, because retailers are changing what they are doing everywhere to be in compliance here," said Cheri Peele, director of government and market policy at Toxic-Free Future.
 
-California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1604) is pending — if passed, it would extend mandatory phenol-free requirements to the largest retail market in the US, accelerating the national transition further.
+California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1604) is pending — if passed, it would extend mandatory phenol-free requirements to the largest retail market in the US, accelerating the national transition further. Our [AB 1604 compliance guide](/articles/california-ab-1604-compliance-guide) breaks down what this would mean for businesses.
 
 The trajectory is clear: bisphenol receipt paper is being phased out. The question is timing — and whether that timing protects workers who are being exposed today.
 

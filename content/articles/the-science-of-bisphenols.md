@@ -110,7 +110,7 @@ Connecticut was the first US state to restrict BPA in thermal paper (2013), but 
 
 [Washington State](https://apps.leg.wa.gov/rcw/default.aspx?cite=70A.222) passed the most comprehensive US legislation to date — a ban on all bisphenol compounds (not just BPA) in thermal paper, effective 2026. This closed the BPS loophole that undermined earlier regulations. For a plain-English overview of what the law requires and how businesses can comply, see our [Washington State compliance guide](/articles/washington-state-receipt-paper-ban-compliance-guide).
 
-California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1604), currently pending, would extend similar protections statewide. If passed, it would cover the largest economy in the US and effectively set a national standard.
+California's [AB 1604](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB1604), currently pending, would extend similar protections statewide. If passed, it would cover the largest economy in the US and effectively set a national standard. For what this means for California businesses specifically, see our [AB 1604 compliance guide](/articles/california-ab-1604-compliance-guide).
 
 **International bans:**
 Beyond the US and EU, Japan has significantly reduced BPA in food contact materials through industry agreements. Several Scandinavian countries have implemented restrictions exceeding EU minimums. Australia and New Zealand have restricted BPA in baby products. China has restricted BPA in infant formula packaging.

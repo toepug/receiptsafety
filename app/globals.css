@@ -68,6 +68,34 @@ body {
   margin-bottom: 0.375rem;
 }
 
+.article-body table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.article-body th,
+.article-body td {
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-body th {
+  background-color: #1E6FCC;
+  color: #ffffff;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.article-body tr:nth-child(even) td {
+  background-color: #f9fafb;
+}
+
 /* Step cards — h3 with id="scratch-test|sanitizer-strike|manager-memo" and the following p */
 .article-body h3#scratch-test,
 .article-body h3#sanitizer-strike,

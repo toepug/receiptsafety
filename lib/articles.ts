@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
+import remarkGfm from "remark-gfm";
 import html from "remark-html";
 
 const articlesDir = path.join(process.cwd(), "content/articles");
@@ -40,7 +41,7 @@ export async function getArticleBySlug(slug: string): Promise<Article> {
   const source = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(source);
 
-  const processed = await remark().use(html).process(content);
+  const processed = await remark().use(remarkGfm).use(html).process(content);
   let contentHtml = processed.toString();
 
   // Remove leading <h1> — the page header already renders the title from frontmatter

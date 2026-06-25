@@ -46,7 +46,7 @@ Your skin normally acts as a shield against chemicals. But hand sanitizer contai
 
 The rule is simple: **dry hands before receipts.**
 
-Reproductive health is another concern worth understanding — BPA and its substitutes have been linked to fertility impacts in both men and women, which is especially relevant for cashiers of childbearing age. See our article on [BPA, BPS, and fertility](/articles/bpa-fertility-and-reproduction) for the full picture.
+Reproductive health is another concern worth understanding — BPA and its substitutes have been linked to fertility impacts in both men and women, which is especially relevant for cashiers of childbearing age. See our article on [BPA, BPS, and fertility](/articles/bpa-fertility-and-reproduction) for the full picture. If you're currently pregnant, see our dedicated guide on [receipt paper and pregnancy](/articles/receipt-paper-and-pregnancy) for exposure data and your workplace rights.
 
 ### The "BPA-Free" Myth
 

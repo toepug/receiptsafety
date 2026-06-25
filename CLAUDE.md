@@ -43,6 +43,7 @@ Mission: fact-first, authoritative, not scaremongering.
 - washington-state-receipt-paper-ban-compliance-guide.md — Plain-English compliance guide for Washington State bisphenol ban; covers California AB 1604.
 - can-you-recycle-receipts.md — Why thermal receipts cannot be recycled; recycling contamination, disposal guidance, and the environmental case for phenol-free paper.
 - california-ab-1604-compliance-guide.md — Plain-English compliance guide for California's AB 1604 bisphenol receipt ban (2027/2028 deadlines) and current Prop 65 enforcement.
+- receipt-paper-and-pregnancy.md — BPA/BPS exposure risks during pregnancy, why cashiers are highest-risk, PWFA workplace accommodation rights, and practical exposure-reduction steps.
 
 ## Article Registry
 
@@ -60,6 +61,7 @@ a new article is published.
 | washington-state-receipt-paper-ban-compliance-guide | Washington State Receipt Paper Ban Compliance Guide | Washington State 2026 ban, business compliance |
 | can-you-recycle-receipts | Can You Recycle Receipts | Thermal paper waste, recycling contamination |
 | california-ab-1604-compliance-guide | California AB 1604 Compliance Guide | California bisphenol receipt ban (2027/2028), Prop 65 enforcement |
+| receipt-paper-and-pregnancy | Receipt Paper and Pregnancy | Pregnancy-specific BPA/BPS exposure risk and PWFA workplace rights |
 
 Note: hand-sanitizer-bpa-receipt-absorption.md was drafted but confirm
 file exists in /content/articles/ before adding to this table.

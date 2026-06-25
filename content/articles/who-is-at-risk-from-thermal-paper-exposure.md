@@ -141,7 +141,7 @@ Several factors make certain workers' exposure especially significant:
 
 **Lack of awareness:** Unlike cashiers, who have been the subject of public health campaigns and some workplace safety discussions, most of the workers in this article have never been informed that the paper they handle contains endocrine-disrupting chemicals. This means they have taken no protective measures whatsoever.
 
-For anyone in these groups who is planning a family or concerned about reproductive health, the [research on bisphenols and fertility](/articles/bpa-fertility-and-reproduction) is worth reading in full.
+For anyone in these groups who is planning a family or concerned about reproductive health, the [research on bisphenols and fertility](/articles/bpa-fertility-and-reproduction) is worth reading in full. If you're currently pregnant and working in one of these roles, our guide on [receipt paper and pregnancy](/articles/receipt-paper-and-pregnancy) covers the specific risks and protections available to you.
 
 ---
 

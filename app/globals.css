@@ -45,6 +45,12 @@ body {
   font-weight: 700;
 }
 
+.article-body img {
+  width: 100%;
+  border-radius: 0.75rem;
+  margin: 1.5rem 0;
+}
+
 .article-body hr {
   border-color: #e5e7eb;
   margin: 2rem 0;

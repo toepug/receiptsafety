@@ -14,6 +14,8 @@ This article covers what the research says about BPA, BPS, and pregnancy; why ca
 
 ## Why Pregnancy Changes the Risk Picture
 
+![Pregnant woman at a retail checkout counter holding a receipt](/images/pregnancy-checkout-receipt.jpg)
+
 For most adults, the body handles BPA reasonably well. The liver metabolizes it and it gets flushed out relatively quickly — within hours. That's part of why regulators have historically set exposure limits based on adult metabolism.
 
 But pregnancy is different in two important ways.
@@ -35,6 +37,8 @@ And it compounds further with two common on-the-job habits:
 **Hand sanitizer amplifies absorption.** Research has shown that using ethanol-based hand sanitizer before touching thermal receipt paper can dramatically increase the amount of BPA absorbed through the skin — by as much as 100-fold compared to dry hands. Cashiers who sanitize frequently, as many were trained to do during the COVID-19 pandemic, may be inadvertently increasing their own exposure.
 
 **Lotion has the same effect.** Any skin-softening product that increases moisture or permeability on the hands — hand cream, moisturizer, barrier cream — can also increase dermal absorption of BPA from thermal paper.
+
+![Close-up of hands with hand sanitizer, with a receipt visible on the counter nearby](/images/hand-sanitizer-receipt.jpg)
 
 ## What the Research Links to BPA Exposure in Pregnancy
 
@@ -84,6 +88,8 @@ Importantly, you do not need a formal medical diagnosis. You need to communicate
 Employers cannot force a reassignment or demote a pregnant worker without the worker's agreement simply because of pregnancy. The process is supposed to be an interactive dialogue — you communicate a need, and the employer works with you to find something feasible. They also cannot retaliate against you for making an accommodation request.
 
 If you're uncertain about your rights, [OSHA's reproductive hazards resources](https://www.osha.gov/reproductive-hazards) and the EEOC's PWFA guidance are both publicly available and written in accessible language.
+
+![Retail worker wearing nitrile gloves at a point-of-sale terminal](/images/nitrile-gloves-pos.jpg)
 
 ## Practical Steps You Can Take Today
 
